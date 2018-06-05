@@ -1,0 +1,64 @@
+
+/*headers*/
+
+h1{
+    color: #fff;
+}
+body {
+	font-family: "HelveticaNeue-Regular","Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: #636B75;
+	line-height: 1;
+	margin: 0;
+}
+
+h3{
+    color: #F26531;
+     text-align: center;
+}
+
+p {
+    display: block;
+    -webkit-margin-before: 2em;
+    -webkit-margin-after: 2em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-size: 13px;
+    margin-bottom: 18px;
+    line-height: 1.6em;
+    margin-left: 2em;
+}
+
+.mission{
+    color: #fff;
+}
+h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Cabin', Arial, sans-serif;
+    font-weight: 400;
+    padding-left:  2em;
+}
+h3{
+    font-size: 1.5em;
+}
+.wrapper{
+  color: grey;
+  background-color: #569cbf;
+    width: 100%;
+    height: auto;
+}
+.stylish-color-dark {
+  padding: 10px 15px;
+  background-color: #343a40 ;
+  border-top: 1px solid #ddd;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+footer  {
+    background-color: #243a51;;
+}
+
+.schedule{display: table-cell;
+    background-color: beige;
+    font-size: 14px;
+    padding: 15px;
+}
